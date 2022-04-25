@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "prepend-http": "^4.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "testme-main",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
